@@ -8,8 +8,9 @@
 ## Task:
 - We would like you to write the JS and CSS to show the staff members when clicking on the button.
 - Some of the code has been written for you but feel free to change it if you feel necessary.
-- The staff data is included as an import, use this to populate the list of staff members.
+- The staff data is included in the `assets/js/_incs` directory, use this to populate the list of staff members.
 - Use ES6 (if you can) and _do not_ use jQuery.
+- Clean code is _key!_
 
 ## Bonus points:
 - If you can structure the JS in a way that would emulate how data would be retrieved from a live database (think promises).
